@@ -1,4 +1,4 @@
-html{
+html {
     font-family: Helvetica;
     text-align: center;
 }
@@ -8,13 +8,12 @@ html{
     background-size: cover;
 }
 
-.menu h1{
+.menu h1 {
     font-size: 70px;
     color: white;
 }
 
-.menu ul.options{
-
+.menu ul.options {
     list-style: none;
 }
 
@@ -24,7 +23,7 @@ html{
     line-height: 30px;
 }
 
-.process h2{
+.process h2 {
     font-size: 32px;
     font-weight: bold;
     color: black;
@@ -44,8 +43,30 @@ html{
     background-size: cover;
 }
 
-.design h3{
+.design h3 {
     font-size: 23px;
     color: white;
     font-weight: bold;
+}
+
+.footer {
+    text-align: left;
+    color: white;
+    background-color: dimgray;
+    font-size:11px;
+}
+
+.footer ul.options {
+    list-style: none;
+
+}
+
+.footer ul.options a {
+    font-size: 11px;
+    color:white;
+}
+
+.footer ul.options a li {
+    display: inline;
+    font-size: 18px;
 }
